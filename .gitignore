@@ -1,0 +1,36 @@
+@"
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# OBS / video files (keep these OUT of git — they're huge)
+*.mkv
+*.mp4
+*.mov
+*.avi
+
+# Personal notes / drafts not meant for the repo
+notes/
+drafts/
+scratch/
+"@ | Out-File -FilePath .gitignore -Encoding utf8
+# Working outlines / private notes
+video*/video*_outline.md
+*_outline.md
