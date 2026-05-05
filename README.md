@@ -25,9 +25,9 @@ I'm Drew, a geologist working at the intersection of data science and exploratio
 
 Links to videos will be added here as they're published.
 
-## Video 1 — Getting Python running
+### Video 1 — Getting Python running
 
-**[▶ Watch Video 1](#)** *(link coming soon)*
+[![Watch Video 1: Getting Python running](https://img.youtube.com/vi/02YymGb9y_Y/maxresdefault.jpg)](https://youtu.be/02YymGb9y_Y)
 
 In this video you'll go from "browser open" to "first piece of working Python code that reads a real drillhole dataset." We use Google Colab as the main path because it gets you coding in 60 seconds with no installation. Anaconda is covered briefly at the end for offline work.
 
@@ -37,9 +37,7 @@ The example dataset (`assays.csv`) contains 21 drillhole intervals from three fi
 
 **Option A — Open directly in Colab:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
-
-*(Colab badge link to be added once the notebook is uploaded)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DHeasmanGDS/geodatascience-python-intro/blob/main/video1/my_first_notebook_completed.ipynb)
 
 **Option B — Download and run locally:**
 
