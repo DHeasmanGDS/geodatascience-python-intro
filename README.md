@@ -37,9 +37,7 @@ The example dataset (`assays.csv`) contains 21 drillhole intervals from three fi
 
 **Option A — Open directly in Colab:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
-
-*(Colab badge link to be added once the notebook is uploaded)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DHeasmanGDS/geodatascience-python-intro/blob/main/video1/my_first_notebook_completed.ipynb)
 
 **Option B — Download and run locally:**
 
