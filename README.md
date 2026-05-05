@@ -27,7 +27,7 @@ Links to videos will be added here as they're published.
 
 ## Video 1 — Getting Python running
 
-**[▶ Watch Video 1](#)** *(link coming soon)*
+**[▶ Watch Video 1](https://youtu.be/02YymGb9y_Y)**
 
 In this video you'll go from "browser open" to "first piece of working Python code that reads a real drillhole dataset." We use Google Colab as the main path because it gets you coding in 60 seconds with no installation. Anaconda is covered briefly at the end for offline work.
 
