@@ -65,11 +65,36 @@ If you'd rather work locally instead of in the cloud:
 
 Total install time: about 10 minutes, mostly waiting.
 
+## Video 2 — Python Basics for Geoscientists
+
+**[▶ Watch Video 2](#)** *(coming soon)*
+
+Building on Video 1, we cover the parts of Python you'll use constantly: variables, types, operations, loops, functions, and a few habits for readable code. All with geoscience examples.
+
+### Follow along
+
+**Option A — Open directly in Colab:**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DHeasmanGDS/geodatascience-python-intro/blob/main/video2/video2_demo.ipynb)
+
+The notebook loads the dataset directly from GitHub, so no file upload is needed.
+
+**Option B — Download and run locally:**
+
+1. Click `video2_demo.ipynb` in the `video2/` folder
+2. Click "Download raw file"
+3. Open in Jupyter or upload back to Colab
+4. The URL-based load still works the same way
+
+### Files in `video2/`
+
+- `video2_demo.ipynb` — the notebook from the video
+- `assays.csv` — the example drillhole dataset (same as Video 1)
+
 ## Coming up
 
-Videos 2 and 3 will live in their own folders here once recorded. The plan:
+Video 3 will live in its own folder here once recorded. The plan:
 
-- **Video 2** — variables, lists, dicts, loops, reading data, with geology examples throughout
 - **Video 3** — pandas and matplotlib end-to-end on a real workflow
 
 ## Questions or feedback?
