@@ -67,11 +67,10 @@ Total install time: about 10 minutes, mostly waiting.
 
 ## Video 2 — Python Basics for Geoscientists
 
-**[▶ Watch Video 2](#)** *(coming soon)*
-
+[![Watch Video 2: Python Basics](https://img.youtube.com/vi/RsvBcGCCQ7c/maxresdefault.jpg)](https://youtu.be/RsvBcGCCQ7c)
 Building on Video 1, we cover the parts of Python you'll use constantly: variables, types, operations, loops, functions, and a few habits for readable code. All with geoscience examples.
 
-### Follow along
+### Follow alongRsvBcGCCQ7c
 
 **Option A — Open directly in Colab:**
 
